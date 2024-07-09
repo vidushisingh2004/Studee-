@@ -1,0 +1,8 @@
+- message_id: 12
+- event_info:
+    type: text_event
+    nodes:
+      - TextInput_5
+    id: !<tag:yaml.org,2002:js/undefined> ''
+    index: 2
+- first_name: 'undefined'

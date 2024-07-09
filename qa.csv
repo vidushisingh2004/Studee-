@@ -1,0 +1,63 @@
+q_id, sub_id, question
+1, 1, What is the fundamental theorem of calculus?
+2, 1, Explain the concept of integration in Calculus
+3, 1, What is a vector space
+4, 2, Describe the basic principles of programming introduced in Introduction to Programming.
+5, 2, Discuss the key principles of Software Design
+7, 3, What is the importance of statistics in real-world applications?
+8, 3, How is statistical modeling used to interpret data trends?
+9, 3, Explain the role of data science in modern industries. 
+10, 4, What is a tidy dataset?
+11, 5, Discuss the importance of biodiversity in ecological systems.
+12, 5, Describe the structure and function of cells in Cell Biology.
+13, 6, What are the key characteristics of inorganic compounds in Inorganic Chemistry?
+14, 6, Explain the concept of organic compounds in Organic Chemistry.
+15, 6, Discuss the principles of physical chemistry and their applications.
+16, 7, Describe the principles of classical mechanics.
+17, 7, What are the fundamental concepts of quantum mechanics?
+18, 7, How is electromagnetism studied in the context of physics?
+19, 8, Discuss major events and developments in world history.
+20, 8, What were the key events in American history shaping the nation?
+21, 9, Analyze the themes and literary devices in English Literature.
+22, 9, Discuss major works and themes in World Literature.
+23, 10, Explain the basic concepts and theories introduced in Introduction to Psychology.
+24, 10, How does Industrial Psychology contribute to workplace efficiency?
+25, 1, How is the chain rule applied in Calculus 1?
+26, 1, Discuss the concept of series and sequences in Calculus 2.
+27, 1, How are linear transformations represented in Elementary Linear Algebra?
+28, 2, Explain the Burble Sorting algorithm.
+29, 2, Compare arrays and linked lists in Data Structures (C++).
+30, 2, Describe the principles of user interface design in Software Design.
+31, 3, What are the different types of sampling techniques in Introduction to Statistics?
+32, 3, How is regression analysis used in Statistical Modeling?
+33, 3, Discuss the stages of the data science lifecycle in Introduction to Data Science.
+34, 4, How does machine learning contribute to Intermediate Data Science?
+35, 5, Why is the conservation of biodiversity crucial for ecosystems?
+36, 5, Explain the significance of organelles in cellular functions in Cell Biology.
+37, 6, Differentiate between coordination compounds and organometallic compounds in Inorganic Chemistry.
+38, 6, Discuss the types of isomerism in Organic Chemistry.
+39, 6, How are chemical equilibrium and thermodynamics related in Physical Chemistry?
+40, 7, Apply Newton's laws to solve problems in Classical Mechanics.
+41, 7, Explain the concept of quantum superposition in Quantum Mechanics.
+42, 7, Describe the electromagnetic spectrum in Electromagnetism.
+43, 8, Analyze the impact of the Renaissance on world history.
+44, 8, Discuss the role of technology in shaping American history.
+45, 9, Identify the major literary movements in English Literature.
+46, 9, Discuss the cultural influences on World Literature.
+47, 10, How does the nature vs. nurture debate apply to psychology in Introduction to Psychology?
+48, 10, Explain the principles of motivation in Industrial Psychology.
+49, 13, Investigate the historical significance of the Industrial Revolution in shaping the modern world.
+50, 11, Analyze the political and social consequences of the French Revolution on European societies.
+51, 10, Describe the key principles of classical conditioning in the field of Behavioral Psychology.
+52, 12, How does the concept of supply and demand influence market equilibrium in economics?
+53,2,What is OOP?
+53,10,Explain Gas Lighting?
+54,2,Is that every input in Python is a string?
+55,5,What is a cell?
+56,5,what is a cell
+57,9,Review Gone with the Wind book
+58,1,1+1
+59,2,Which programming language is better Java or C++?
+60,1,2+2
+61,1,4+4
+62,15,Describe postmenstrual syndrome 

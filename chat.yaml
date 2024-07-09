@@ -1,0 +1,85 @@
+- View:
+    style:
+      width: 250
+      height: 400
+      backgroundColor: peachpuff
+      borderWidth: 10
+      borderColor: brown
+      flexDirection: row
+      flexWrap: wrap
+      justifyContent: space-around
+      alignItems: center
+    children:
+      - Button:
+          style:
+            width: 30
+            height: 30
+            alignSelf: flex-start 
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: white
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+      - Button:
+          style:
+            width: 30
+            height: 30
+            alignSelf: flex-start
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: white
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+      - TextInput:
+          style:
+            minWidth: 175
+            height: 60
+            borderRadius: 0
+            borderWidth: 2
+            backgroundColor: pink
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 0
+      - TextInput:
+          style:
+            minWidth: 175
+            height: 60
+            borderRadius: 0
+            borderWidth: 2
+            backgroundColor: cyan
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
+      - TextInput:
+          style:
+            minWidth: 175
+            height: 60
+            borderRadius: 0
+            borderWidth: 2
+            backgroundColor: pink
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 0
+      - TextInput:
+          style:
+            minWidth: 175
+            height: 60
+            borderRadius: 0
+            borderWidth: 2
+            backgroundColor: cyan
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 0
+

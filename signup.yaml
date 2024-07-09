@@ -1,0 +1,126 @@
+- ScrollView:
+    style:
+      width: 100%
+      height: 100%
+      backgroundColor: "#fee4e7"
+      borderWidth: 10
+      borderColor: "#a2cffe"
+      flexDirection: column
+      flexWrap: wrap
+      justifyContent: space-around
+      alignItems: center
+    children:
+      - TextInput:
+          index: 0
+          len: 20
+          style:
+            width: 80%
+            height: 8%
+            marginTop: 5%
+            marginLeft: 1%
+            fontSize: 20
+            backgroundColor: white
+            borderColor: gray
+            borderWidth: 1
+          extra_props:
+          placeholder: 'Username'
+          placeholderTextColor: grey
+          autoFocus: true
+      - TextInput:
+          index: 20
+          len: 20
+          style:
+            width: 80%
+            height: 8%
+            marginTop: 5%
+            marginLeft: 1%
+            fontSize: 20
+            backgroundColor: white
+            borderColor: gray
+            borderWidth: 1
+          extra_props:
+          placeholder: 'Password'
+          placeholderTextColor: grey
+          autoFocus: true
+      - TextInput:
+          index: 40
+          len: 20
+          style:
+            width: 80%
+            height: 8%
+            marginTop: 5%
+            marginLeft: 1%
+            fontSize: 20
+            backgroundColor: white
+            borderColor: gray
+            borderWidth: 1
+          extra_props:
+          placeholder: 'Full Name'
+          placeholderTextColor: grey
+          autoFocus: true
+      - TextInput:
+          index: 60
+          len: 20
+          style:
+            width: 80%
+            height: 8%
+            marginTop: 5%
+            marginLeft: 1%
+            fontSize: 20
+            backgroundColor: white
+            borderColor: gray
+            borderWidth: 1
+          extra_props:
+          placeholder: 'Age'
+          placeholderTextColor: grey
+          autoFocus: true
+      - TextInput:
+          index: 40
+          len: 20
+          style:
+            width: 80%
+            height: 8%
+            marginTop: 5%
+            marginLeft: 1%
+            fontSize: 20
+            backgroundColor: white
+            borderColor: gray
+            borderWidth: 1
+          extra_props:
+          placeholder: 'Level'
+          placeholderTextColor: grey
+          autoFocus: true
+      - Button:
+          style:
+            width: 15%
+            height: 10%
+            alignSelf: flex-start
+            borderRadius: 10
+            borderWidth: 2
+            marginLeft: 10%
+            backgroundColor: grey
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+              - Text:
+                  style:
+                    fontSize: 30
+                    color: black
+                  index: {button_text_index_1}
+      - Button:
+          style:
+            width: 15%
+            height: 10%
+            alignSelf: flex-start
+            borderRadius: 10
+            borderWidth: 2
+            marginLeft: 75%
+            backgroundColor: white
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+              - Text:
+                  style:
+                    fontSize: 30
+                    color: black
+                  index: {button_text_index_2}

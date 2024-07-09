@@ -1,0 +1,82 @@
+- View:
+    style:
+      width: 1800
+      height: 400
+      backgroundColor: peachpuff
+      borderWidth: 10
+      borderColor: brown
+      flexDirection: column
+      flexWrap: wrap
+      justifyContent: space-around
+      alignItems: center
+    children:
+      - View:
+          style:
+            flexDirection: row
+            justifyContent: space-around
+            alignItems: center
+            width: 100%
+          children:
+            - Button:
+                style:
+                  width: 40
+                  height: 40
+                  borderRadius: 15
+                  borderWidth: 2
+                  backgroundColor: white
+                on_touch:
+                  backgroundColor: rgb(255, 200, 0)
+            - Button:
+                style:
+                  width: 40
+                  height: 40
+                  borderRadius: 15
+                  borderWidth: 2
+                  backgroundColor: white
+                on_touch:
+                  backgroundColor: rgb(255, 200, 0)
+      - Button:
+          style:
+            minWidth: 500
+            height: 60
+            borderRadius: 30
+            borderWidth: 2
+            backgroundColor: pink
+          children:
+            - Text:
+               style:
+                 color: black
+                 fontSize: 30
+               index: 0
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+      - Button:
+          style:
+            minWidth: 500
+            height: 60
+            borderRadius: 30
+            borderWidth: 2
+            backgroundColor: cyan
+          children:
+            - Text:
+               style:
+                 color: black
+                 fontSize: 30
+               index: 8
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+      - Button:
+          style:
+            minWidth: 500
+            height: 60
+            borderRadius: 30
+            borderWidth: 2
+            backgroundColor: orange
+          children:
+            - Text:
+               style:
+                 color: black
+                 fontSize: 30
+               index: 8
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)

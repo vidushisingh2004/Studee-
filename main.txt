@@ -1,0 +1,215 @@
+       
+# screen 1 (after a blank line)
+Welcome to STUDEE!
+Are you a returning STUDEE? (Yes/No)
+Input your choice:
+1. Yes
+2. No
+Other. Exit the application
+
+# screen 2 (Sign In_UserName)
+Welcome back! 
+Please sign in to your account. 
+-------------------------------------------
+Sign In with STUDEE account:
+Username (Email/Phone):
+
+# screen 3 (Sign In_Password)
+Password:
+
+# screen 4
+Log In Successfully!
+
+# screen 5
+Failed To Log In!
+Click Enter to go back to the Log In Screen.
+
+
+# screen 6 (Sign Up_name)
+Welcome to the Sign Up Page!
+Please provide the following information to create your account:
+-------------------------------------------
+Full Name:
+
+# screen 7
+Age:
+
+# screen 8
+Invalid  input. Please enter a valid input.
+
+# screen 9
+Email/Phone (Username):
+
+# screen 10
+Password
+
+# screen 11
+Grade or Degree Pursuing:
+High School: 9/10/11/12
+Undergraduate: Freshman/Sophomore/Junior/Senior
+Graduate: Master/PhD
+
+# screen 12
+To provide the best experience, we may need access to your camera and microphone.
+Do you give permission for camera?
+1. Yes
+2. No
+        
+# screen 13       
+Do you give permission for microphone?
+1. Yes
+2. No
+
+
+#screen 14
+Twitter(If you don't want to add it, enter N/A)
+
+#screen 15
+Facebook(If you don't want to add it, enter N/A)
+
+# screen 16
+New User Added! Welcome you to the Studee!
+Continue? Press any button!
+
+# screen 17
+User Mode:
+1. Tutor
+2. Student
+3. Studee Buddies
+4. Settings
+5. Exit
+
+
+# screen 18
+Main Menu for Student/Tutor:
+1. Forum
+2. Tutoring
+3. Go Back To The User Mode
+
+#Screen 19
+You are a STUDEE tutor now! You need to choose a subject to tutor.
+
+#Screen 20 
+STUDEE Tutor Menu
+1. Choose new subject to tutor
+2. Student Information
+3. Accept the student request
+4. Go back to Main Menu
+#screen 21 
+Accept Student Request
+1. Yes
+2. No
+
+#Screen 22
+You are a STUDEE student now!  Now choose your first ever tutor!
+
+#Screen 23
+STUDEE Student
+1. Choose a new tutor
+2. Choose a new subject
+3. Tutor Information
+4. Go back
+
+# screen 24
+Choose the subject:
+
+# screen 25
+STUDEE FORUM
+Please enter your question:
+
+# screen 26
+Your question posted! 
+Do you any other question:
+1. Yes
+2. No
+
+# screen 27
+STUDEE TUTORS 
+
+# screen 28
+Start chat with your student! Press 0 to come back to your menu.
+
+# screen 29
+Thank you for using our app!
+
+# screen 30
+You are in the room 
+# screen 31
+STUDEE FORUM
+1. Ask a question (only for Student)
+2. Read forum questions and answer
+3. Answer forum questions
+4. Go back to home page
+
+# screen 32
+STUDEE FORUM (Press Enter to go back to the previous page)
+Q&A History:
+
+# screen 33
+Now you are a STUDEE tutor! We will publish your information so STUDEE students can select you as a Tutor.
+
+# screen 34
+No Student Request Found! Press Enter to come back.
+
+# screen 35
+Pending Requests:
+
+# screen 36
+Say Hi to your Tutor! Don't forget to introduce yourself!
+Message:
+
+# screen 37
+Your message has been sent to your TUTOR! Returning to the main page...
+
+# screen 38
+Settings
+-----------------
+1. Sound (On/Off)
+2. Volume (Adjust volume level: 1 - 100)
+3. Theme (Light/Dark)
+4. Camera (On/Off)
+5. Microphone (On/Off)
+6. Go Back to User Mode
+Select an option (1/2/3/4/5/6)
+
+# screen 39
+STUDEE FORUM:
+Feel free to answer any questions!
+Questions:
+
+# screen 40
+Question:
+
+# screen 41
+Question: 
+
+# screen 42
+Your answer is posted. Do you want to answer other question?
+1. Yes
+2. No
+
+# screen 43
+Want to find a Study Group to stay focus on your assignment? Here are some groups active...
+
+# screen 44
+You have changed your tutoring subject to 
+
+# screen 45
+Your STUDEE tutor:
+Subject:
+# screen 46
+Sound 
+1. On
+2. Off
+# screen 47
+Volume (enter number between 1-100)
+Adjust volume level:
+# screen 48
+Theme
+1. Light
+2. Dark
+# screen 49
+The sound is 
+# screen 50
+Your STUDEE students 
+

@@ -1,0 +1,48 @@
+- ScrollView:
+    style:
+      width: 100%
+      height: 100%
+      backgroundColor: "#fee4e7"
+      borderWidth: 10
+      borderColor: "#a2cffe"
+    children:
+      - Image:
+          style:
+            position: absolute
+            top: 5%
+            left: 5%
+            width: 150
+            height: 150
+            borderRadius: 20
+          source: logo3.jpeg
+      - View:  # Add a View around the Text component
+          style:
+            backgroundColor: "#ffc0cb"  # Use a pastel color for the View
+            top: 5%
+            left: 20%
+            width: 100%
+            padding: 10  # Adjust padding as needed
+          children:
+            - Text:
+                style:
+                  fontSize: 24 
+                  color: "#212529" 
+                  fontFamily: "Roboto" 
+                index: 100
+      - TextInput:
+          index: 2
+          len: 100
+          alignment: center
+          style:
+            width: 50%
+            height: 20%
+            marginTop: 10%
+            marginLeft: 20%
+            fontSize: 20
+            backgroundColor: white
+            borderColor: gray
+            borderWidth: 1
+          extra_props:
+            placeholder: 'Type Here'
+            placeholderTextColor: grey
+            autoFocus: true

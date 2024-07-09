@@ -1,0 +1,150 @@
+- View:
+    style:
+      width: 1800
+      height: 400
+      backgroundColor: peachpuff
+      borderWidth: 10
+      borderColor: brown
+      flexDirection: column
+      justifyContent: space-around
+      alignItems: center
+    children:
+      - View:
+          style:
+            flexDirection: row
+            justifyContent: space-around
+            alignItems: flex-start
+            width: 100%
+          children:
+            - Button:
+                style:
+                  width: 40
+                  height: 40
+                  alignSelf: flex-start
+                  borderRadius: 15
+                  borderWidth: 2
+                  backgroundColor: white
+                on_touch:
+                  backgroundColor: rgb(255, 200, 0)
+            - Button:
+                style:
+                  width: 40
+                  height: 40
+                  alignSelf: flex-start
+                  borderRadius: 15
+                  borderWidth: 2
+                  backgroundColor: white
+                on_touch:
+                  backgroundColor: rgb(255, 200, 0)
+
+      - Button:
+          style:
+            minWidth: 150
+            height: 40
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: purple
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
+
+      - Button:
+          style:
+            minWidth: 150
+            height: 40
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: yellow
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
+
+      - Button:
+          style:
+            minWidth: 150
+            height: 40
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: blue
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
+
+      - Button:
+          style:
+            minWidth: 150
+            height: 40
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: cyan
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
+
+      - Button:
+          style:
+            minWidth: 150
+            height: 40
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: green
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
+
+      - Button:
+          style:
+            minWidth: 150
+            height: 40
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: orange
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
+
+      - Button:
+          style:
+            minWidth: 150
+            height: 40
+            borderRadius: 60
+            borderWidth: 2
+            backgroundColor: pink
+          on_touch:
+            backgroundColor: rgb(255, 200, 0)
+          children:
+            - Text:
+               style:
+                 color: white
+                 fontSize: 30
+               index: 8
